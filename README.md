@@ -14,11 +14,11 @@ An open-source music framework for AI coding agents. Compose editable scores in 
 **Python · Audio synthesis · Creative tooling**  
 [Listen to demos](https://audioascode.com) · [Explore the source](https://github.com/joaoCarvalho1000/audio-as-code)
 
-### [Open World Clock](https://github.com/joaoCarvalho1000/open-world-clock)
+### [Open World Clock](https://github.com/joaoCarvalho1000/open-world-clock-windows)
 A free world clock for Windows and the web, with time zone conversion, meeting planning, and a day-and-night world map. No ads, accounts, or telemetry.
 
 **Electron · Windows · Time zones**  
-[Try the web app](https://openworldclock.com) · [Explore the source](https://github.com/joaoCarvalho1000/open-world-clock)
+[Try the web app](https://openworldclock.com) · [Time zone converter](https://openworldclock.com/time-zone-converter) · [Meeting planner](https://openworldclock.com/meeting-planner) · [Explore the source](https://github.com/joaoCarvalho1000/open-world-clock-windows)
 
 ## Tools for coding agents
 
